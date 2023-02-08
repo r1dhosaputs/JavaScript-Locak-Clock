@@ -1,2 +1,2 @@
-# JavaScript-Locak-Clock
-JavaScript Locak Clock  Newbie
+# JavaScript-Local-Clock
+JavaScript Local Clock  Newbie
